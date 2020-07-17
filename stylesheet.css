@@ -20,9 +20,9 @@ a {
 .top-wrapper {
   padding: 180px 0 300px 0;
   background-image: url(あじさい.JPG);
-  background-size: cover;
+  background-size: ;
   color: white;
-  text-align: left;
+  text-align: center;
 }
 
 .top-wrapper h1 {
@@ -38,7 +38,7 @@ a {
 }
 
 .btn-wrapper {
-  text-align: left;
+  text-align: center;
 }
 
 .btn-wrapper p {
