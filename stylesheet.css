@@ -247,7 +247,7 @@ footer {
 
   .top-wrapper {
     text-align: left;
-    width: 100%;
+    background-size: cover;
   }
 
   .top-wrapper h1 {
