@@ -204,6 +204,10 @@ footer {
 }
 
 @media all and (max-width: 1000px) {
+  
+  .top-wrapper {
+    background-size: 33% 50%}
+  
   .lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -224,7 +228,7 @@ footer {
   }
   
   .top-wrapper {
-    background-size: 33% 50%;
+    background-size: 50% 50%;
   }
 
   .heading h2 {
