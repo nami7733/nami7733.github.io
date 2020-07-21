@@ -203,10 +203,13 @@ footer {
   clear: left;
 }
 
-@media all and (max-width: 1000px) {
+@media all and (max-width: 1250px) {
   
   .top-wrapper {
-    background-size: 33% 50%}
+    background-size: 33% 50%;
+  }
+  
+@media all and (max-width: 1000px) {
   
   .lesson {
     width: 50%;
