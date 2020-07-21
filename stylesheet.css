@@ -205,7 +205,7 @@ footer {
 
 @media all and (max-width: 1000px) {
   .lesson {
-    width: 50%;
+    width: 25%;
     margin-bottom: 50px;
   }
 
