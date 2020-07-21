@@ -222,6 +222,10 @@ footer {
   .top-wrapper h1 {
     font-size: 32px;
   }
+  
+  .top-wrapper {
+    background-size: 33% 50%;
+  }
 
   .heading h2 {
     font-size: 20px;
