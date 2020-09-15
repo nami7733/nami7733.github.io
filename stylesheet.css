@@ -205,7 +205,7 @@ footer {
 
 @media all and (max-width: 1250px) {
   .top-wrapper {
-    background-size: 33% 50%;
+    background-size: 66% 100%;
   }
   
 @media all and (max-width: 1000px) {
